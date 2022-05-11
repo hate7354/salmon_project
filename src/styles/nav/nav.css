@@ -1,0 +1,26 @@
+.nav {
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.nav .nav_list {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  list-style: none;
+  height: 27px;
+}
+
+.nav .nav_list li {
+  padding: 0px 22.5px;
+  height: 27px;
+}
+
+.nav .nav_list li:hover {
+  cursor: pointer;
+  border-bottom: 3px solid #e99e46;
+}

@@ -1,0 +1,16 @@
+.footer {
+  width: 100%;
+  font-size: 12px;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+  background-color: #ededef;
+}
+.etc ul {
+  display: flex;
+  align-items: center;
+  list-style: none;
+}
+.etc ul li {
+  padding: 0px 4px;
+}
